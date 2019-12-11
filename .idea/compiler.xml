@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka_service_7001" />
+        <module name="Login" />
+        <module name="consumer" />
+        <module name="eureka_service_7002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer_9528" target="1.5" />
+      <module name="springcloud_config" target="1.5" />
+      <module name="springcloud_config_server" target="1.5" />
+      <module name="springcloud_user_consumer_9001" target="1.5" />
+      <module name="springcloud_user_consumer_9002" target="1.5" />
+      <module name="springcloud_user_consumer_feign_9003" target="1.5" />
+      <module name="springcloud_user_consumer_Hystrixfeign_9004" target="1.5" />
+      <module name="springcloud_user_consumer_zuul_getaawy_9005" target="1.5" />
+      <module name="springcloud_user_interface" target="1.5" />
+      <module name="springcloud_user_provider_8011" target="1.5" />
+      <module name="springcloud_user_provider_8012" target="1.5" />
+      <module name="springcloud_user_provider_hystrix_8013" target="1.5" />
+      <module name="springcolud_config_client_3355" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
